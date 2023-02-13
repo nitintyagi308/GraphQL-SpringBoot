@@ -1,0 +1,5 @@
+type Query{
+    firstQuery : String
+    secondQuery : String
+    queryWithParameter(param : String) : String
+}
